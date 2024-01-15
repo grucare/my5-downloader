@@ -1,0 +1,12 @@
+pycryptodome==3.19.0
+pywidevine==1.6.0
+requests==2.31.0
+beaupy
+httpx
+jmespath
+pyfiglet==0.8.post1
+rich
+Scrapy
+selectolax
+termcolor
+pysubs2
